@@ -71,4 +71,11 @@ class App extends React.Component {
 }
 
 export default App
-// Thanks to Abdurrahman
+
+
+
+
+
+
+
+// Thanks to Abdurrahman' solutions
